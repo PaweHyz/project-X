@@ -26,4 +26,7 @@ public class NipTest {
         assertEquals("123-456-32-18", nip.getNip());
     }
 
+
+
+
 }
